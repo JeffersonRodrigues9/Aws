@@ -1,4 +1,4 @@
-# TRILHA DE CERTIFICAÇÕES AWS | IA & MACHINE LEARNING
+# Trilha de certificações AWS
 
 ### Objetivos Profissionais em AWS com foco em Inteligeência Artificial e Machine Learning - Certificações AWS
 
