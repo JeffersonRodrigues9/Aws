@@ -4,7 +4,7 @@
 
 #### 🛣️ Minha trilha de certificações será:
 
-#### AWS Cloud Practitioner (nível foundational) - EM ANDAMENTO
+#### AWS Cloud Practitioner (nível foundational) - EM ANDAMENTO ⏳
 
 #### AWS AI Practitioner (quando disponível oficialmente)
 
