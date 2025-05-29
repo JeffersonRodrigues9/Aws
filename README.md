@@ -13,3 +13,7 @@
 #### AWS Machine Learning Engineer
 
 #### AWS Certified Machine Learning – Specialty (nível mais avançado em ML)
+
+# Historia
+
+#### Durante a graduação em Ciência de Dados, tive meu primeiro contato com Python e, rapidamente, mergulhei no universo do Machine Learning. Nesse processo, descobri o mundo da computação em nuvem e me encantei especialmente com o ecossistema da AWS. Foi a partir daí que tomei a decisão de seguir uma trilha profissional voltada para a nuvem, com foco em Inteligência Artificial e Machine Learning.
