@@ -2,7 +2,7 @@
 
 ## Objetivos Profissionais em AWS com foco em Inteligeência Artificial e Machine Learning - Certificações AWS
 
-#### 🛣️ Minha trilha de certificações será:
+### 🛣️ Minha trilha de certificações será:
 
 #### AWS Cloud Practitioner (nível foundational) - EM ANDAMENTO ⏳
 
