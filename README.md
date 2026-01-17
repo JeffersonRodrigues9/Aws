@@ -52,3 +52,6 @@ https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/3BD
 ### Responsabilidadeda AWS: segurançada nuvem
 #### Responsabilidadesda AWS: •Segurançafísicados datacenters•Acessocontroladoe baseadoemnecessidades •Infraestruturade hardware e software •Desativaçãode armazenamento, registroemlog de acessoaosistemaoperacional(SO) do host e auditoria •Infraestruturade rede•Detecçãode intrusão •Infraestruturade virtualização •Isolamentode instância
 
+## AWS Identity and Access Management (IAM)
+### Uma política do IAM é um documento que define permissões para determinar o que os usuários podem fazer na conta da AWS. Uma política normalmente concede acesso a recursos específicos e especifica o que o usuário pode fazer com esses recursos. As políticas também podem negar explicitamente o acesso.
+
