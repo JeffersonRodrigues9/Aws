@@ -45,4 +45,5 @@
 ###### Computação em clusters, Tempo real, Data Warehouse, FLuxos de trabalhos de dados.
 #### Serviços Móveis
 ###### Identidade, Sincronização, Mobile Analytics, Notificações.
-###### 
+
+https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/3BDEGUXF8P
