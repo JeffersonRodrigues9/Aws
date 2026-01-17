@@ -47,3 +47,8 @@
 ##### Identidade, Sincronização, Mobile Analytics, Notificações.
 
 https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/3BDEGUXF8P
+
+## Módulo 4: Segurança na Nuvem AWS
+### Responsabilidadeda AWS: segurançada nuvem
+#### Responsabilidadesda AWS: •Segurançafísicados datacenters•Acessocontroladoe baseadoemnecessidades •Infraestruturade hardware e software •Desativaçãode armazenamento, registroemlog de acessoaosistemaoperacional(SO) do host e auditoria •Infraestruturade rede•Detecçãode intrusão •Infraestruturade virtualização •Isolamentode instância
+
