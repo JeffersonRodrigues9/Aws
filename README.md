@@ -6,7 +6,7 @@
 
 #### AWS Cloud Practitioner (nível foundational) - EM ANDAMENTO ⏳
 
-#### AWS AI Practitioner (quando disponível oficialmente)
+#### AWS AI Practitioner 
 
 #### AWS Solutions Architect – Associate
 
