@@ -59,3 +59,5 @@ https://awsacademy.instructure.com/courses/152823/grades
 
 jeehrodrigues2600@gmail.com
 
+https://awsacademy.instructure.com/login/canvas
+
