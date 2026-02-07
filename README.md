@@ -55,3 +55,7 @@ https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/3BD
 ### AWS Identity and Access Management (IAM)
 #### Uma política do IAM é um documento que define permissões para determinar o que os usuários podem fazer na conta da AWS. Uma política normalmente concede acesso a recursos específicos e especifica o que o usuário pode fazer com esses recursos. As políticas também podem negar explicitamente o acesso.
 
+https://awsacademy.instructure.com/courses/152823/grades
+
+jeehrodrigues2600@gmail.com
+
